@@ -1,2 +1,1 @@
-Our readme file.
--- this is our first commit and need to be updated soon
+This service works in the same analogy with yelp.com. Its a recommendation service for general public for the services they are buying...
